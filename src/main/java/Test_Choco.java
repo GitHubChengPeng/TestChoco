@@ -4,6 +4,6 @@ public class Test_Choco {
 	public static void main(String[] args) {
 	    Model model = new Model("A first model");
 	    System.out.println(model.getName());
-	    System.out.println("Happy Choco 3/30/2020");
+	    System.out.println("Happy Choco ");
 	}
 }
